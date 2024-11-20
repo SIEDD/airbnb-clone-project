@@ -62,7 +62,6 @@ A user-friendly design is critical in a booking system because it directly impac
 Identifying design properties of a mock-up design lays the groundwork for a smooth transition from design to development, ensuring the final product aligns with the intended vision.
 
 ## Project Roles and Responsibilities
-Project Manager
 The Project Manager is the leader of the project. They are responsible for planning, executing, and closing projects.
     Key Responsibilities:
         Oversee project progress and ensure milestones are met.
@@ -70,8 +69,7 @@ The Project Manager is the leader of the project. They are responsible for plann
         Manage project timelines, budget, and resources.
         Identify and mitigate risks.
         Serve as the primary point of contact for stakeholders.
-
-Frontend Developers 
+ 
 Frontend developers focus on the client-side of the application, ensuring a smooth and engaging user experience.
     Key Responsibilities:
         Implement UI/UX designs using HTML, CSS, and JavaScript.
@@ -80,7 +78,6 @@ Frontend developers focus on the client-side of the application, ensuring a smoo
         Collaborate with designers to create visually appealing interfaces.
         Optimize the application for maximum speed and scalability.
 
-Backend Developers
 Backend developers work on the server-side of the application, managing data and ensuring seamless communication between the server and the frontend.
     Key Responsibilities:
         Develop and maintain server-side logic using languages such as Python, Node.js, or Java.
@@ -88,8 +85,7 @@ Backend developers work on the server-side of the application, managing data and
         Create and maintain APIs for frontend integration.
         Implement security and data protection measures.
         Optimize server performance and scalability.
-
-Designers 
+ 
 Designers are responsible for the visual and interactive aspects of the application, ensuring it is user-friendly and aesthetically pleasing.
     Key Responsibilities:
         Create wireframes, mockups, and prototypes.
@@ -98,7 +94,6 @@ Designers are responsible for the visual and interactive aspects of the applicat
         Collaborate with frontend developers to implement designs.
         Conduct usability testing to gather feedback and improve designs.
 
-QA/Testers
 QA/Testers ensure the quality and reliability of the application by identifying and fixing bugs before release.
     Key Responsibilities:
         Develop and execute test plans and test cases.
@@ -107,7 +102,6 @@ QA/Testers ensure the quality and reliability of the application by identifying 
         Verify bug fixes and perform regression testing.
         Ensure the application meets quality standards and user requirements.
 
-DevOps Engineers
 DevOps Engineers focus on the deployment and operational aspects of the software, ensuring smooth and efficient delivery.
     Key Responsibilities:
         Automate deployment processes.
@@ -116,7 +110,6 @@ DevOps Engineers focus on the deployment and operational aspects of the software
         Implement continuous integration and continuous deployment (CI/CD) pipelines.
         Ensure security and compliance in the production environment.
 
-Product Owner (PO)
 The Product Owner is responsible for defining the vision of the product and ensuring it meets user needs.
     Key Responsibilities:
         Define and prioritize product features and requirements.
@@ -125,7 +118,6 @@ The Product Owner is responsible for defining the vision of the product and ensu
         Ensure the product delivers value to users and aligns with business goals.
         Make decisions on scope and accept completed work.
 
-Scrum Master
 The Scrum Master facilitates Agile processes and helps the team follow Scrum practices.
     Key Responsibilities:
         Organize and facilitate Scrum ceremonies (e.g., daily stand-ups, sprint planning, retrospectives).
